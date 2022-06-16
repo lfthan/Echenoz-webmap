@@ -1,0 +1,1 @@
+var json_Belvdres_6 = {"type":"FeatureCollection","name":"Belvdres_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{},"geometry":{"type":"Point","coordinates":[6.128317532065771,47.600601010908733]}}]}
